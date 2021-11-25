@@ -1,5 +1,5 @@
 ## Check free place
- A quick script to notify about the availability of seats on the train
+ A quick script to notify about the availability of seats on the train.
 
 ## Development
 ### Installation
